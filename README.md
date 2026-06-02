@@ -5,7 +5,7 @@ A **Machine Learning project** that detects whether an SMS message is **Spam or 
 
 This project demonstrates the **complete ML workflow**, from **data preprocessing and feature engineering to model training and evaluation**.
 
-Try it: https://spamornot-01.streamlit.app/
+Try it:[ https://spamornot-01.streamlit.app/](https://spam-or-not-rdiy.onrender.com/)
 
 ---
 
