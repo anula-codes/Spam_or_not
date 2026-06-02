@@ -8,6 +8,9 @@ This project demonstrates the **complete ML workflow**, from **data preprocessin
 Try it:
 https://spam-or-not-rdiy.onrender.com/
 
+
+press ctrl + shift + R if not loading.
+
 ---
 
 # Project Overview
